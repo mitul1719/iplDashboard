@@ -1,0 +1,6 @@
+@import "https://unpkg.com/open-props";
+
+.media-element {
+    padding: var(--size-3);
+  }
+  
